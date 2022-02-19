@@ -1,0 +1,19 @@
+{
+  "name": "comradevanti.opt-unity",
+  "version": "1.0.0",
+  "description": "A unity package for using opt",
+  "displayName": "opt-unity",
+  "unity": "2018.3",
+  "author": {
+    "name": "ComradeVanti",
+    "email": "kingvanti650@gmail.com"
+  },
+  "keywords": [
+    "opt",
+    "functional",
+    "optional",
+    "utility",
+    "fhsharp"
+  ],
+  "license": "Unlicense"
+}
