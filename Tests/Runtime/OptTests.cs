@@ -1,0 +1,30 @@
+using ComradeVanti.CSharpTools;
+using ComradeVanti.OptUnity;
+using NUnit.Framework;
+using UnityEngine;
+
+[TestFixture]
+public class OptTests
+{
+
+    [Test]
+    public void OptsCreatedFromNullObjectsAreNone() =>
+        Assert.That(((Object)null).ToOpt().IsNone());
+
+    [Test]
+    public void OptsCreatedFromNonNullObjectsAreSome()
+    {
+        var obj = new Texture2D(0, 0);
+        Assert.That(obj.ToOpt().IsSome());
+    }
+
+    [Test]
+    public void OptsCreatedFromDestroyedObjectsAreNone()
+    {
+        var obj = new Texture2D(0, 0);
+        Object.DestroyImmediate(obj);
+
+        Assert.That(obj.ToOpt().IsNone());
+    }
+
+}
