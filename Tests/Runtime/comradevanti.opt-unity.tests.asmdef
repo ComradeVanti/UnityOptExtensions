@@ -1,0 +1,19 @@
+{
+    "name": "comradevanti.opt-unity.tests",
+    "rootNamespace": "ComradeVanti.OptUnity",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "guid:abae1860b9cc9c84289013571e170b12"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "versionDefines": [],
+    "noEngineReferences": false
+}
