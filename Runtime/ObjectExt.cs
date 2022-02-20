@@ -1,10 +1,10 @@
-﻿using ComradeVanti.CSharpTools;
+using ComradeVanti.CSharpTools;
 using UnityObject = UnityEngine.Object;
 
 namespace ComradeVanti.OptUnity
 {
 
-    public static class OptExt
+    public static class ObjectExt
     {
 
         /// <summary>
