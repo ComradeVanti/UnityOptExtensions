@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## 1.2.0
+
+### Fixed
+
+- Missing meta file for readme
+
 ## 1.1.3
 
 ### Added
