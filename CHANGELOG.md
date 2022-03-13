@@ -6,6 +6,10 @@
 
 - Missing meta file for readme
 
+### Changed
+
+- Bump opt version to 1.1.1
+
 ## 1.1.3
 
 ### Added
