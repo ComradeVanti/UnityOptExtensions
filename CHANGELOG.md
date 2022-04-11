@@ -1,5 +1,12 @@
 ﻿# Changelog
 
+## 2.0.0
+
+### Changed
+
+- Package and assembly names to fit with Unity conventions
+- Package is now installed via OpenUPM
+
 ## 1.2.0
 
 ### Fixed
