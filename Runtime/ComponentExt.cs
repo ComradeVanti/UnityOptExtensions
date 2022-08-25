@@ -14,7 +14,7 @@ namespace ComradeVanti.OptUnity
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static Opt<TValue> TryGetComponent<TValue>(this Component comp) where TValue : Component =>
+        public static IOpt<TValue> TryGetComponent<TValue>(this Component comp) where TValue : Component =>
             comp.GetComponent<TValue>().ToOpt();
 
         /// <summary>
@@ -25,7 +25,7 @@ namespace ComradeVanti.OptUnity
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static Opt<TValue> TryGetComponentInChildren<TValue>(this Component comp) where TValue : Component =>
+        public static IOpt<TValue> TryGetComponentInChildren<TValue>(this Component comp) where TValue : Component =>
             comp.GetComponentInChildren<TValue>().ToOpt();
 
         /// <summary>
@@ -36,7 +36,7 @@ namespace ComradeVanti.OptUnity
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static Opt<TValue> TryGetComponentInParent<TValue>(this Component comp) where TValue : Component =>
+        public static IOpt<TValue> TryGetComponentInParent<TValue>(this Component comp) where TValue : Component =>
             comp.GetComponentInParent<TValue>().ToOpt();
 
     }

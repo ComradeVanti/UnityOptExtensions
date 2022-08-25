@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## 3.0.0
+
+### Changed
+
+- Bumped Opt version to 2.1.0 and changed API accordingly
+
 ## 2.0.0
 
 ### Changed

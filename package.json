@@ -1,6 +1,6 @@
 {
   "name": "dev.comradevanti.opt-unity",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A unity package for using opt",
   "displayName": "OptUnity",
   "unity": "2020.3",
@@ -16,7 +16,7 @@
     "fhsharp"
   ],
   "dependencies": {
-    "org.nuget.comradevanti.csharptools.opt": "1.1.2"
+    "org.nuget.comradevanti.csharptools.opt": "2.1.0"
   },
   "license": "Unlicense"
 }

@@ -14,7 +14,7 @@ namespace ComradeVanti.OptUnity
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static Opt<TValue> TryGetComponent<TValue>(this GameObject go) where TValue : Component =>
+        public static IOpt<TValue> TryGetComponent<TValue>(this GameObject go) where TValue : Component =>
             go.GetComponent<TValue>().ToOpt();
 
     }
