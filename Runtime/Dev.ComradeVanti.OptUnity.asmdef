@@ -1,6 +1,6 @@
 {
     "name": "Dev.ComradeVanti.OptUnity",
-    "rootNamespace": "ComradeVanti.OptUnity",
+    "rootNamespace": "Dev.ComradeVanti",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

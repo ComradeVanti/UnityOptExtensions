@@ -1,11 +1,12 @@
 ﻿# Changelog
 
-## Upcoming
+## Upcoming - BREAKING!
 
 ### Changed
 
 - Bumped Opt version to 2.2.0
 - Improved readme
+- Changed namespace to `Dev.ComradeVanti`
 
 ## 3.0.0
 

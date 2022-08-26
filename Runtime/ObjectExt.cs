@@ -1,7 +1,7 @@
 using ComradeVanti.CSharpTools;
 using UnityObject = UnityEngine.Object;
 
-namespace ComradeVanti.OptUnity
+namespace Dev.ComradeVanti
 {
 
     public static class ObjectExt
