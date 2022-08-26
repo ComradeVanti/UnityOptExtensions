@@ -7,6 +7,7 @@
 - Bumped Opt version to 2.2.0
 - Improved readme
 - Changed namespace to `Dev.ComradeVanti`
+- Reword package display name
 
 ## 3.0.0
 
