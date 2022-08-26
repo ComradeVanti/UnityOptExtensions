@@ -12,6 +12,10 @@ more.
 
 - TryFindObjectOfType
 
+### OptResources
+
+- TryLoad
+
 ## Extensions
 
 ### Object

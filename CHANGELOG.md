@@ -4,7 +4,8 @@
 
 ### Added
 
-- `TryFindObjectOfType` method
+- `OptObject.TryFindObjectOfType` method
+- `OptResources.TryLoad` method
 
 ### Changed
 
