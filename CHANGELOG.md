@@ -1,6 +1,6 @@
 ﻿# Changelog
 
-## Upcoming - BREAKING!
+## 3.1.0 - BREAKING!
 
 ### Added
 
