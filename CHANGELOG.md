@@ -5,6 +5,7 @@
 ### Changed
 
 - Bumped Opt version to 2.2.0
+- Improved readme
 
 ## 3.0.0
 
