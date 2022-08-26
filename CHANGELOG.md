@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+### Added
+
+- `TryFindObjectOfType` method
+
 ### Changed
 
 - Move extension scripts to subfolder

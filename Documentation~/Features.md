@@ -6,6 +6,12 @@ fill find a list of all included methods. Their usage should be
 self-explanatory, but if not you can always use the included XML-docs to learn
 more.
 
+## Static utility classes
+
+### OptObject
+
+- TryFindObjectOfType
+
 ## Extensions
 
 ### Object
