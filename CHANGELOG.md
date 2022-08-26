@@ -2,6 +2,10 @@
 
 ## Upcoming - BREAKING!
 
+### Added
+
+- Features documentation
+
 ### Changed
 
 - Bumped Opt version to 2.2.0

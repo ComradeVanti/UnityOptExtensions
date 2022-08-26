@@ -10,6 +10,8 @@ access to the extensions and utilities which allow you to better deal with
 missing values in Unity, such as by using `TryGetComponent` instead
 of `GetComponent`.
 
+All features are listed [here](./Documentation~/Features.md).
+
 ## Installation
 
 The quickest way is to install via [OpenUPM](https://openupm.com)
