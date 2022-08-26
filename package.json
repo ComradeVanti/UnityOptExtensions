@@ -16,7 +16,7 @@
     "fhsharp"
   ],
   "dependencies": {
-    "org.nuget.comradevanti.csharptools.opt": "2.1.0"
+    "org.nuget.comradevanti.csharptools.opt": "2.2.0"
   },
   "license": "Unlicense"
 }

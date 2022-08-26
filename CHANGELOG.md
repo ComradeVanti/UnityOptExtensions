@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## Upcoming
+
+### Changed
+
+- Bumped Opt version to 2.2.0
+
 ## 3.0.0
 
 ### Changed
