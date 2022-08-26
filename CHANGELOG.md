@@ -7,6 +7,7 @@
 - `OptObject.TryFindObjectOfType` method
 - `OptResources.TryLoad` method
 - Issue templates
+- Add various useful links to readme
 
 ### Changed
 
