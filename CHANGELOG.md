@@ -6,6 +6,7 @@
 
 - `OptObject.TryFindObjectOfType` method
 - `OptResources.TryLoad` method
+- Issue templates
 
 ### Changed
 
