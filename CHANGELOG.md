@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## 3.2.2
+
+### Fixed
+
+- Incorrect gitignore was ignoring meta files
+
 ## 3.2.1
 
 ### Added

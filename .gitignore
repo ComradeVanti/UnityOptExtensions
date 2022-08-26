@@ -78,4 +78,7 @@ crashlytics-build.properties
 # Include documentation folder
 !/Documentation~/
 
+# Include meta files
+!*.meta
+
 # End of https://www.toptal.com/developers/gitignore/api/unity
