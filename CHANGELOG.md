@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## 3.2.1
+
+### Added
+
+- OpenUPM badge to Readme
+
 ## 3.2.0
 
 ### Added
