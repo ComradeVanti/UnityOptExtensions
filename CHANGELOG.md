@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## Upcoming
+
+### Changed
+
+- Move extension scripts to subfolder
+
 ## 3.1.0 - BREAKING!
 
 ### Added
