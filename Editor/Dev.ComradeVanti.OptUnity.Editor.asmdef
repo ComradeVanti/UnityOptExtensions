@@ -1,0 +1,19 @@
+{
+    "name": "Dev.ComradeVanti.OptUnity.Editor",
+    "rootNamespace": "Dev.ComradeVanti.OptUnity",
+    "references": [
+        "GUID:abae1860b9cc9c84289013571e170b12",
+        "GUID:e53b7f7219d3c9c4090c2c080cc1757a"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

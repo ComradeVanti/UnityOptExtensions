@@ -31,3 +31,14 @@ more.
 - TryGetComponent
 - TryGetComponentInChildren
 - TryGetComponentInParent
+
+## OptField
+
+You can declare optional fields in the inspector. For example, let's say, your script *can* have a reference to a rigidbody, but does not *have to*. In this case, you could do:
+```csharp
+[SerializeField] private OptField<Rigidbody> maybeRigidbody;
+```
+
+which would show up in the inspector like this
+![Alt text](./Images/None.png "No value set")
+![Alt text](./Images/Some.png "Some value set")

@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## Upcoming
+
+### Added
+
+- `OptField`
+
 ## 3.2.2
 
 ### Fixed

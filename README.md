@@ -42,6 +42,7 @@ following [scoped registry](https://docs.unity3d.com/Manual/upm-scoped.html):
   "scopes": [
     "com.openupm",
     "dev.comradevanti.opt-unity",
+    "dev.comradevanti.rect-constraints",
     "org.nuget.comradevanti.csharptools.opt"
   ]
 }
