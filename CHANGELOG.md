@@ -5,6 +5,7 @@
 ### Changed
 
 - Reword package description
+- Reword display name
 
 ## 3.3.0 - Breaking!
 
