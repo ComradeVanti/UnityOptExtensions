@@ -10,6 +10,7 @@
 
 - Reword package description
 - Reword display name
+- Bump rect constraints
 
 ## 3.3.0 - Breaking!
 

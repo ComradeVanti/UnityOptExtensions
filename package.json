@@ -18,7 +18,7 @@
   "changelogUrl": "https://github.com/ComradeVanti/UnityOptExtensions/blob/main/CHANGELOG.md",
   "dependencies": {
     "org.nuget.comradevanti.csharptools.opt": "2.2.0",
-    "dev.comradevanti.rect-constraints": "1.0.2"
+    "dev.comradevanti.rect-constraints": "1.0.3"
   },
   "license": "Unlicense"
 }
