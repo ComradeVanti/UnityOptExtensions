@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+### Added
+
+- Link to changelog
+
 ### Changed
 
 - Reword package description
