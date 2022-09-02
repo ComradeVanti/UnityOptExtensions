@@ -1,7 +1,7 @@
 {
   "name": "dev.comradevanti.opt-unity",
   "version": "3.3.0",
-  "description": "A unity package for using opt",
+  "description": "Unity extensions and utilities for Opt",
   "displayName": "Opt for Unity",
   "unity": "2020.3",
   "author": {

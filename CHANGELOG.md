@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## Upcoming
+
+### Changed
+
+- Reword package description
+
 ## 3.3.0 - Breaking!
 
 ### Added
