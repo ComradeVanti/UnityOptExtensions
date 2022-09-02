@@ -11,6 +11,7 @@
 - Reword package description
 - Reword display name
 - Bump rect constraints
+- Update readme to use new repo name
 
 ## 3.3.0 - Breaking!
 

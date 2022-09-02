@@ -1,4 +1,4 @@
-﻿# Opt for Unity
+﻿# Unity Opt extensions
 
 [![openupm](https://img.shields.io/npm/v/dev.comradevanti.opt-unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/dev.comradevanti.opt-unity/)
 
@@ -6,7 +6,7 @@ Unity-extensions and utilities
 for [Opt](https://www.nuget.org/packages/ComradeVanti.CSharpTools.Opt/)
 
 Found any issues? Post
-them [here](https://github.com/ComradeVanti/opt-unity/issues/new/choose).
+them [here](https://github.com/ComradeVanti/UnityOptExtensions/issues/new/choose).
 
 Want to see the Changelog? Its [here](./CHANGELOG.md).
 
@@ -20,7 +20,7 @@ of `GetComponent`.
 All features are listed [here](./Documentation~/Features.md).
 
 If you have ideas for
-more, [let me know](https://github.com/ComradeVanti/opt-unity/issues/new?assignees=&labels=enhancement&template=unity-api-suggestion--.md&title=)
+more, [let me know](https://github.com/ComradeVanti/UnityOptExtensions/issues/new?assignees=&labels=enhancement&template=unity-api-suggestion--.md&title=)
 .
 
 ## Installation
@@ -30,7 +30,7 @@ using `openupm add dev.comradevanti.opt-unity`.
 
 Or install manually
 as [git dependency](https://docs.unity3d.com/Manual/upm-ui-giturl.html)
-from `https://github.com/ComradeVanti/opt-unity.git` or download as zip
+from `https://github.com/ComradeVanti/UnityOptExtensions.git` or download as zip
 and [import locally](https://docs.unity3d.com/Manual/upm-ui-local.html). If you
 decide to install manually, make sure your project includes the
 following [scoped registry](https://docs.unity3d.com/Manual/upm-scoped.html):
