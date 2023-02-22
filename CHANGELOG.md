@@ -1,8 +1,12 @@
 ﻿# Changelog
 
-## 3.3.2
-
 ## Upcoming
+
+### Fixed
+
+- Incorrect header order in changelog
+
+## 3.3.2
 
 ### Changed
 
