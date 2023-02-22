@@ -1,5 +1,11 @@
 ﻿# Changelog
 
+## Upcoming
+
+### Changed
+
+- Bump rect constraints to remove the warning about empty editor assembly
+
 ## 3.3.1
 
 ### Added
