@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+### Added
+
+- `TryParent` extension for `Transform`
+
 ### Changed
 
 - Bump opt version to 3.0.0
