@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+### Changed
+
+- Bump opt version to 3.0.0
+
 ### Fixed
 
 - Incorrect header order in changelog
