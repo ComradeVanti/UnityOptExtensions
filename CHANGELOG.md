@@ -5,6 +5,7 @@
 ### Changed
 
 - Bump rect constraints to remove the warning about empty editor assembly
+- Bump opt version to 2.3.0
 - Link to specific opt-version on nuget instead of just to the package
 
 ## 3.3.1
