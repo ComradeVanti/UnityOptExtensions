@@ -2,6 +2,8 @@
 
 ## Upcoming
 
+## 3.4.0 - Breaking!
+
 ### Added
 
 - `TryParent` extension for `Transform`
