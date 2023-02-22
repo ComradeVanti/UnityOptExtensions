@@ -3,7 +3,7 @@
 [![openupm](https://img.shields.io/npm/v/dev.comradevanti.opt-unity?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/dev.comradevanti.opt-unity/)
 
 Unity-extensions and utilities
-for [Opt](https://www.nuget.org/packages/ComradeVanti.CSharpTools.Opt/)
+for [Opt](https://www.nuget.org/packages/ComradeVanti.CSharpTools.Opt/2.2.0)
 
 Found any issues? Post
 them [here](https://github.com/ComradeVanti/UnityOptExtensions/issues/new/choose).
