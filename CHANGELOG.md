@@ -6,6 +6,10 @@
 
 - `GetComponent` and variations of it now also work with interfaces
 
+### Removed
+
+- `ToOpt` extension. Use `Opt.FromNullable` instead
+
 ## 3.4.0 - Breaking!
 
 ### Added
