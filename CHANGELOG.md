@@ -5,6 +5,7 @@
 ### Added
 
 - `GetComponent` and variations of it now also work with interfaces
+- XML doc for `TryParent` function
 
 ### Removed
 
