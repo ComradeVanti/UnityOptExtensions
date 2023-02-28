@@ -3,7 +3,6 @@ using UnityEngine;
 
 namespace Dev.ComradeVanti
 {
-
     public static class ComponentExt
     {
 
@@ -14,8 +13,8 @@ namespace Dev.ComradeVanti
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static IOpt<TValue> TryGetComponent<TValue>(this Component comp) where TValue : Component =>
-            comp.GetComponent<TValue>().ToOpt();
+        public static IOpt<TValue> TryGetComponent<TValue>(this Component comp) where TValue : class => 
+            Opt.FromNullable(comp.GetComponent<TValue>());
 
         /// <summary>
         ///     Attempts to find a component of a specific type on this game-object
@@ -25,8 +24,8 @@ namespace Dev.ComradeVanti
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static IOpt<TValue> TryGetComponentInChildren<TValue>(this Component comp) where TValue : Component =>
-            comp.GetComponentInChildren<TValue>().ToOpt();
+        public static IOpt<TValue> TryGetComponentInChildren<TValue>(this Component comp) where TValue : class =>
+            Opt.FromNullable(comp.GetComponentInChildren<TValue>());
 
         /// <summary>
         ///     Attempts to find a component of a specific type on this game-object
@@ -36,9 +35,7 @@ namespace Dev.ComradeVanti
         /// <param name="comp">The component relative to which to search</param>
         /// <typeparam name="TValue">The type of the component to search.</typeparam>
         /// <returns>An optional which may contain the component</returns>
-        public static IOpt<TValue> TryGetComponentInParent<TValue>(this Component comp) where TValue : Component =>
-            comp.GetComponentInParent<TValue>().ToOpt();
-
+        public static IOpt<TValue> TryGetComponentInParent<TValue>(this Component comp) where TValue : class =>
+            Opt.FromNullable(comp.GetComponentInParent<TValue>());
     }
-
 }

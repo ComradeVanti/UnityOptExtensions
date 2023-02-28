@@ -11,13 +11,13 @@ namespace Dev.ComradeVanti
 
         [Test]
         public void OptsCreatedFromNullObjectsAreNone() =>
-            Assert.That(((Object)null).ToOpt().IsNone());
+            Assert.That(Opt.FromNullable((Object)null).IsNone());
 
         [Test]
         public void OptsCreatedFromNonNullObjectsAreSome()
         {
             var obj = new Texture2D(0, 0);
-            Assert.That(obj.ToOpt().IsSome());
+            Assert.That(Opt.FromNullable(obj).IsSome());
         }
 
         [Test]
@@ -26,7 +26,7 @@ namespace Dev.ComradeVanti
             var obj = new Texture2D(0, 0);
             Object.DestroyImmediate(obj);
 
-            Assert.That(obj.ToOpt().IsNone());
+            Assert.That(Opt.FromNullable(obj).IsNone());
         }
 
     }

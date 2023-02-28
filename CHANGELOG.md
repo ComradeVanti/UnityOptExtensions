@@ -2,6 +2,10 @@
 
 ## Upcoming
 
+### Added
+
+- `GetComponent` and variations of it now also work with interfaces
+
 ## 3.4.0 - Breaking!
 
 ### Added
