@@ -10,6 +10,11 @@ them [here](https://github.com/ComradeVanti/UnityOptExtensions/issues/new/choose
 
 Want to see the Changelog? Its [here](./CHANGELOG.md).
 
+**⚠️ Development is paused ⚠️**  
+No new features will be added or bugs fixed unless requested through an issue.  
+If you wish to fork this repository and continue the work, you are very welcome
+to do so.
+
 ## Features
 
 Additionally to all features included in the `Opt` package you will also have
